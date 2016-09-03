@@ -1,0 +1,27 @@
+html, 
+body {
+        font-family: Arial, sans-serif;
+        height: 100%;
+        margin: 10;
+        padding: 10;
+      }
+
+      .container {
+        height: 70px;
+        background: #1e90ff;
+        line-height: 60px;
+        text-align: center;
+        max-width: 100%;
+      }
+
+      .description {
+        height: 100%;
+        position: relative;
+        background: #fff;
+        border: 1px solid #999;
+        border-radius: 3px;
+        line-height: 300px;
+        padding: 10px 10px 30px 10px;
+        text-align: center;
+        max-width: 100%;
+      }
